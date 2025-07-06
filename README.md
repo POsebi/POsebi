@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @POsebi
 - 👀 I’m a data analyst.
-- 🌱 I’m currently learning big data analytics using tools such as Power Query, PowerPivot, PowerBI, R, and SQL.
-- 💞️ I’m looking to collaborate on data analytics projects so that I can build my portfolio.
-- 📫 Reach out to me via email - princessadeniran@gmail.com
+- 🌱 I use statistical programming tools R and SQL, and data visualization tools PowerBI and Tableau.
+- 💞️ I’m looking to collaborate on data science and analytics projects.
+- 📫 Reach out to me via email - princessadeniran@gmail.com 
